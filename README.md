@@ -1,7 +1,7 @@
 # Hi there, I'm Amin 👋
 
 Welcome to my GitHub profile!  
-My interests lie at the intersection of **Artificial Intelligence** and **Data Science**, where I enjoy building models, analyzing data, and experimenting with algorithms that bring meaningful insights.
+I'm a computer science student whose interests lie at the intersection of **Artificial Intelligence** and **Data Science**, where I enjoy building models, analyzing data, and experimenting with algorithms that bring meaningful insights.
 
 ---
 
@@ -29,8 +29,6 @@ My interests lie at the intersection of **Artificial Intelligence** and **Data S
 ---
 
 ## 📊 GitHub Stats
-
-![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminariafar&show_icons=true&theme=tokyonight)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminariafar&layout=compact&theme=tokyonight)
 
