@@ -34,7 +34,7 @@ I'm a computer science student whose interests lie at the intersection of **Arti
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminariafar&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5" 
     alt="Top Languages" 
-    width="60%" />
+    width="40%" />
 </p>
 
 ---
